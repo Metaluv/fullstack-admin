@@ -132,7 +132,7 @@ const Sidebar = ({
               <FlexBetween color={theme.palette.secondary.main}>
                 <Box display="flex" alignItems="center" gap="0.5rem">
                   <a href="https://iskoces.webflow.io/">
-                    <img src="logo.png" alt="ISKOCÊS Logo" />
+                    <img src="client\public\logo192.png" alt="ISKOCÊS Logo" />
                   </a>
                   <Typography variant="h4" fontWeight="bold">
                     ISKOCÊS
