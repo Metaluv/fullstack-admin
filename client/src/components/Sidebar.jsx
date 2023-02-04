@@ -59,7 +59,7 @@ const navItems = [
     icon: <PublicOutlined />,
   },
   {
-    text: "Sales",
+    text: "Data Analysis",
     icon: null,
   },
   {
@@ -75,7 +75,7 @@ const navItems = [
     icon: <CalendarMonthOutlined />,
   },
   {
-    text: "Breakdown",
+    text: "Extraction",
     icon: <PieChartOutlined />,
   },
   {
