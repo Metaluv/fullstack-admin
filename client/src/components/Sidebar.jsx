@@ -132,11 +132,11 @@ const Sidebar = ({
               <FlexBetween color={theme.palette.secondary.main}>
                 <Box display="flex" alignItems="center" gap="0.5rem">
                   <a href="https://iskoces.webflow.io/">
-                    <img src="logo192.png" alt="ISKOCÊS Logo" />
+                    <img src="1.png" alt="ISKOCÊS Logo" />
                   </a>
                   <Typography variant="h4" fontWeight="bold">
-                    ISKOCÊS
-                  </Typography>
+
+                  </Typography> 
             </Box>
     {!isNonMobile && (
       <IconButton onClick={() => setIsSidebarOpen(!isSidebarOpen)}>
