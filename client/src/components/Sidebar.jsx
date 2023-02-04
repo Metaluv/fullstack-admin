@@ -167,7 +167,7 @@ const Sidebar = ({
                       sx={{
                         backgroundColor:
                           active === lcText
-                            ? theme.palette.secondary[300]
+                            ? theme.palette.secondary[900]
                             : "transparent",
                         color:
                           active === lcText
